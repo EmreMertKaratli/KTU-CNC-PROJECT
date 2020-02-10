@@ -1,0 +1,9 @@
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\bin\Debug\KTÜ CNC PROJECT.exe.config
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\bin\Debug\KTÜ CNC PROJECT.exe
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\bin\Debug\KTÜ CNC PROJECT.pdb
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\obj\Debug\KTÜ CNC PROJECT.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\obj\Debug\KTÜ_CNC_PROJECT.Form1.resources
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\obj\Debug\KTÜ_CNC_PROJECT.Properties.Resources.resources
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\obj\Debug\KTÜ CNC PROJECT.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\obj\Debug\KTÜ CNC PROJECT.exe
+C:\Users\Emre\source\repos\KTÜ CNC PROJECT\obj\Debug\KTÜ CNC PROJECT.pdb
